@@ -6,7 +6,7 @@
 
 </div>
 
-Me chamo **Renan**. Sou apaixonado por tecnologia e estou focado em desenvolvimento front-end, estudando HTML, CSS e JavaScript.
+Me chamo **Renan**. Faço algumas coisas e estou focado em desenvolvimento front-end, estudando HTML, CSS e JavaScript.
 
 ### Connect with me!
 
